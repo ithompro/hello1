@@ -13,5 +13,7 @@ int main() {
   printf("\n");
   printf("Thy Tran\n");
 
+  printf("Jade Romero\n");
+
   return 0;
 }
