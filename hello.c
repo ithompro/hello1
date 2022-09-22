@@ -11,6 +11,7 @@ int main() {
 
   printf("Hello world.\n");
   printf("\n");
+  printf("Thy Tran\n");
 
   return 0;
 }
